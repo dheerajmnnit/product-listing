@@ -1,8 +1,8 @@
-# Assignment - Product listing page
+# Assignment - Product Listing Page
 A responsive UI design for the product listing page.
 
 ## Demo
-
+https://product-listing-rosy.vercel.app/
 
 ## Tech Stack
 - React
@@ -18,7 +18,7 @@ A responsive UI design for the product listing page.
 ## Running the project
 - Clone the project
 ```
-git clone 
+git clone https://github.com/dheerajmnnit/product-listing.git
 ```
 
 - Install the dependencies
